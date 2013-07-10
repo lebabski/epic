@@ -2,6 +2,7 @@ Please add your l33t hacker name below:
 lord_sql
 sprey
 meow
+zeratul
 
 
 Then commit and push the change back to Github.  
